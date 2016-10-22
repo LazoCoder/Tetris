@@ -14,4 +14,4 @@ Use the left and right arrow keys to move the pieces that are falling. The down 
 
 ![alt tag](gifs/Tetris.gif)
 
-When the user loses, the program exits and the final score is printed to the terminal.
+When the player loses, the program exits and the final score is printed to the terminal.
